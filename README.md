@@ -1,0 +1,2 @@
+# 📊 ANALISIS VENTAS STEEL SERVICE 23-25
+Este proyecto presenta un dashboard interactivo en Excel para el análisis de ventas de una empresa del sector metal. El objetivo es proporcionar una visión clara y operativa de beneficios y toneladas vendidas los últimos 3 años. Para ello distribuimos por tipo de producto y cliente, así como el número de clientes para analizar las diferentes áreas geográficas y marcar objetivos en 2026 a nuestros 3 comerciales.
